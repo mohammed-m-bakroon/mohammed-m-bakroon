@@ -58,6 +58,6 @@ Code is private under client agreements; happy to walk through the architecture 
 
 ## Languages
 
-Arabic (native) · English (_add your level_)
+Arabic (native) · English (Professional Proficiency)
 
-📫 _your email_ · [LinkedIn](https://www.linkedin.com/in/your-profile)
+📫 _your email_ · [LinkedIn](www.linkedin.com/in/mohammed-mostafa33)
