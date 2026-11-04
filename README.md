@@ -80,7 +80,7 @@ Most of my production work belongs to employers and clients, so the repositories
 
 Backend developer. REST API, Filament admin panel with Spatie roles and permissions, video management with **HLS / AES-128 encryption and signed URLs**, campaigns, donations, creator onboarding, and server deployment with GitHub Actions.
 
-### 🤲 [Fajr Relief & Development · جمعية فجر للإغاثة والتنمية](https://www.fajrrelief.com)
+### [Fajr Relief & Development · جمعية فجر للإغاثة والتنمية](https://www.fajrrelief.com)
 **Donation and campaign platform for a licensed Palestinian humanitarian NGO in Gaza**
 
 `Laravel` `Filament` `MySQL` `Payment API integration` `Multilingual (AR / EN / TR)`
