@@ -34,29 +34,26 @@ Today I'm the **technical lead of [Sawt](https://sawtgaza.com)**, a media platfo
 ## 🛠️ Tech stack
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,mysql,js,ts,react,vue,html,css,tailwind,docker,git,github,githubactions,postman,firebase,supabase&perline=9" alt="PHP, Laravel, Symfony, MySQL, JavaScript, TypeScript, React, Vue, HTML, CSS, Tailwind, Docker, Git, GitHub, GitHub Actions, Postman, Firebase, Supabase"/>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white"/>
 </p>
 
 | Area | Skills |
 |---|---|
-| **Backend** | PHP, Laravel 8 → 11, REST APIs, Sanctum, Spatie Permissions, modular architecture (laravel-modules), repository pattern, clean architecture |
+| **Backend** | PHP, Laravel 8 → 11, Symfony, REST APIs, Sanctum, Spatie Permissions, modular architecture (laravel-modules), repository pattern, clean architecture |
 | **Admin panels** | Filament 3, role-based access control |
-| **Data** | MySQL design and query optimization, migrations, Supabase / pgvector |
+| **Data** | MySQL design and query optimization, migrations, data modeling, backup and recovery, Firebase, Supabase / pgvector |
 | **Payments** | Stripe, PayPal, third-party donation / payment APIs |
-| **Automation & AI** | n8n, RAG pipelines, Telegram bots, LLM APIs, AI agents |
-| **Frontend** *(when needed)* | React, TypeScript, Blade, Vue.js, Tailwind CSS |
+| **Automation & AI** | n8n workflows, Claude AI integration, RAG pipelines, Telegram bots, LLM APIs, AI agents |
+| **Frontend** *(when needed)* | React, TypeScript, JavaScript, HTML5, CSS3, Blade, Vue.js, Tailwind CSS |
 | **Analytics** | Power BI (PL-300), SQL, Excel, dashboards and KPI reporting |
 | **Tooling & DevOps** | Git, GitHub Actions, Docker, Composer, Postman |
 
@@ -95,7 +92,7 @@ Most of my production work belongs to employers and clients, so the repositories
 | **[Fajr Relief & Development · جمعية فجر للإغاثة والتنمية](https://www.fajrrelief.com)**<br>Donation platform for a licensed humanitarian NGO in Gaza | **Website rewrite developer & payment integration engineer** | `Laravel` `Filament` `MySQL` `Payment API` `AR / EN / TR` | • Rebuilt the website from the ground up for an organization that depends on donor trust<br>• Isolated the payment API behind its own service class, so it is easy to test and swap<br>• Campaigns by category with funding goal, amount raised and live progress<br>• Trilingual interface (Arabic RTL, English, Turkish)<br>• Blog, partners, FAQ, impact counters, newsletter, reCAPTCHA v3<br>• Content the team edits without code changes |
 | **[Rocket LMS](https://lms.rocket-soft.org)**<br>Online learning marketplace with courses, live classes and tutors | **Backend developer** on a production deployment | `Laravel` `MySQL` `REST API` `AR / EN / ES` `Multi-currency` | • Extended platform features to fit the client's needs while keeping the core upgradable<br>• Designed REST API endpoints for mobile apps and third-party services<br>• Added translation support, including Arabic with RTL<br>• Platform scope: courses, quizzes, certificates, live classes, subscriptions, store, forums, job board |
 | **Learning platform (LMS)**<br>Custom online courses build | **Backend developer** | `Laravel 8` `laravel-modules` `Stripe` | • Modular app with Admin, Course and User modules<br>• Courses, lectures, teachers, reviews, articles<br>• Cart and Stripe checkout<br>• Translatable content |
-| **CRM, invoicing and LMS**<br>Customer management and finance, **Atyaf Company** *(2022 – 2023)* | **Backend developer** | `Laravel` `MySQL` | • Built the CRM, the invoicing system and the learning management system<br>• Secure authentication and authorization<br>• Reports and dashboards for business decisions |
+| **CRM, invoicing, LMS and e-commerce**<br>Customer management, finance and online sales, **Atyaf Company** *(2022 – 2023)* | **Backend developer** | `Laravel` `MySQL` `REST API` `Payment integration` | • Built the CRM, the invoicing system and the learning management system<br>• Built the e-commerce REST API behind a mobile shopping app, with secure payment integration<br>• Secure authentication and authorization<br>• Reports and dashboards for business decisions |
 
 > 🔒 Code is private under client agreements. I'm happy to walk through the architecture, design decisions and trade-offs in an interview.
 
