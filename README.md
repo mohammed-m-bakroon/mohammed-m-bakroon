@@ -8,7 +8,7 @@
 
 📍 Gaza, Palestine &nbsp;•&nbsp; 💼 4+ years of experience &nbsp;•&nbsp; 🌐 Arabic (native) · English (professional)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mostafa33)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mostafa-bakroon/)
 [![GitHub](https://img.shields.io/badge/GitHub-mohammed--m--bakroon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed-m-bakroon)
 
 </div>
@@ -116,4 +116,4 @@ Arabic (native) &nbsp;•&nbsp; English (professional proficiency)
 
 I'm open to backend, Laravel and automation projects and roles, whether you need a new system, an API, an admin panel, or a smarter workflow.
 
-[![LinkedIn](https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mostafa33)
+[![LinkedIn](https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mostafa-bakroon/)
